@@ -7,7 +7,7 @@ about:
   head: 8ff6260
   archived: false
   latestVersion: v6.4.0-rc.1
-  collectedAt: 2026-09-04T19:57:24Z
+  collectedAt: 2026-09-04T20:43:45Z
 timeline:
   created: 2018-08-17
   lastCommit: 2026-05-28
@@ -86,6 +86,154 @@ total:
   openIssue: 20
   commit: 6211
 ---
+path: /home/runner/.x-repo/github.com/loft-sh/devspace
+collectedAt: 2026-09-04T20:43:59Z
+loc:
+  Go:
+    code: 1674169
+    comments: 325441
+    blanks: 178523
+    files: 7528
+  Json:
+    code: 45587
+    comments: 0
+    blanks: 27
+    files: 32
+  Yaml:
+    code: 26741
+    comments: 1288
+    blanks: 794
+    files: 335
+  AssemblyGAS:
+    code: 12606
+    comments: 1206
+    blanks: 2813
+    files: 69
+  Protobuf:
+    code: 9809
+    comments: 22963
+    blanks: 5161
+    files: 89
+  Tsx:
+    code: 3828
+    comments: 47
+    blanks: 573
+    files: 75
+  Sass:
+    code: 3584
+    comments: 94
+    blanks: 573
+    files: 71
+  Sh:
+    code: 1606
+    comments: 196
+    blanks: 148
+    files: 32
+  JavaScript:
+    code: 1392
+    comments: 327
+    blanks: 128
+    files: 27
+  Makefile:
+    code: 816
+    comments: 153
+    blanks: 239
+    files: 23
+  Bash:
+    code: 526
+    comments: 88
+    blanks: 82
+    files: 7
+  C:
+    code: 486
+    comments: 67
+    blanks: 67
+    files: 5
+  Svg:
+    code: 424
+    comments: 3
+    blanks: 0
+    files: 45
+  Dockerfile:
+    code: 228
+    comments: 5
+    blanks: 67
+    files: 44
+  Hcl:
+    code: 115
+    comments: 5
+    blanks: 22
+    files: 3
+  TypeScript:
+    code: 98
+    comments: 10
+    blanks: 16
+    files: 5
+  Php:
+    code: 77
+    comments: 15
+    blanks: 19
+    files: 2
+  Python:
+    code: 69
+    comments: 19
+    blanks: 17
+    files: 1
+  Toml:
+    code: 59
+    comments: 70
+    blanks: 13
+    files: 4
+  Pan:
+    code: 57
+    comments: 0
+    blanks: 5
+    files: 1
+  Bitbake:
+    code: 52
+    comments: 0
+    blanks: 0
+    files: 1
+  Xml:
+    code: 43
+    comments: 0
+    blanks: 4
+    files: 1
+  Css:
+    code: 30
+    comments: 0
+    blanks: 4
+    files: 2
+  Java:
+    code: 28
+    comments: 0
+    blanks: 8
+    files: 1
+  Html:
+    code: 24
+    comments: 1
+    blanks: 0
+    files: 1
+  ForgeConfig:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 24849
+    blanks: 9489
+    files: 456
+  Text:
+    code: 0
+    comments: 5039
+    blanks: 178
+    files: 48
+total:
+  code: 1786304
+  comments: 382577
+  blanks: 199711
+  files: 8909
 ---
 date: "2026-08-24"
 repo:
