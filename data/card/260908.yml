@@ -5,7 +5,7 @@ about:
   head: 8ff6260
   archived: false
   latestVersion: "v6.4.0-rc.1"
-  collectedAt: 2026-09-08T02:16:51Z
+  collectedAt: 2026-09-08T05:04:48Z
 timeline:
   created: 2018-08-17
   lastCommit: 2026-05-28
@@ -85,7 +85,7 @@ total:
   commit: 6211
 ---
 path: /home/runner/.x-repo/github.com/loft-sh/devspace
-collectedAt: 2026-09-08T02:17:20Z
+collectedAt: 2026-09-08T05:05:13Z
 loc:
   Go:
     code: 1674169
