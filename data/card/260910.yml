@@ -7,7 +7,7 @@ about:
   latestVersion: "v6.4.0-rc.1"
   latestRelease: "v6.3.19"
   latestPrerelease: "v6.4.0-rc.1"
-  collectedAt: 2026-09-10T20:51:25Z
+  collectedAt: 2026-09-10T22:54:19Z
 timeline:
   created: 2018-08-17
   lastCommit: 2026-05-28
@@ -89,7 +89,7 @@ total:
   commit: 6211
 ---
 path: /home/runner/.x-repo/github.com/loft-sh/devspace
-collectedAt: 2026-09-10T20:52:03Z
+collectedAt: 2026-09-10T22:54:45Z
 loc:
   Go:
     code: 1674169

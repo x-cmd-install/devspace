@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 82428264,
       "digest": "sha256:47ba9e4c78c1dbcd4139b385c23021614597faaad79a929054beb7de4a559ae7",
-      "download_count": 402,
+      "download_count": 403,
       "created_at": "2026-04-22T19:14:06Z",
       "updated_at": "2026-04-22T19:14:12Z",
       "browser_download_url": "https://github.com/devspace-sh/devspace/releases/download/v6.3.21/devspace-darwin-amd64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 71782584,
       "digest": "sha256:9720a6c87a2465f6d73b4db5a908e15e1971158443b5de9162d94aa5f87f79f0",
-      "download_count": 152162,
+      "download_count": 152272,
       "created_at": "2026-04-22T19:14:06Z",
       "updated_at": "2026-04-22T19:14:22Z",
       "browser_download_url": "https://github.com/devspace-sh/devspace/releases/download/v6.3.21/devspace-linux-amd64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 68223160,
       "digest": "sha256:8652285a22f079d4bfeda37a2f1089d56e64a34a76d32537dfb20a7cd6e69fcb",
-      "download_count": 3679,
+      "download_count": 3685,
       "created_at": "2026-04-22T19:14:06Z",
       "updated_at": "2026-04-22T19:14:12Z",
       "browser_download_url": "https://github.com/devspace-sh/devspace/releases/download/v6.3.21/devspace-linux-arm64"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 21102776,
       "digest": "sha256:964b2bcb8e0a6314586254e27e31613ecdc9d3c0e40e969b7370a33786f8c705",
-      "download_count": 1705,
+      "download_count": 1706,
       "created_at": "2026-04-22T19:14:06Z",
       "updated_at": "2026-04-22T19:14:11Z",
       "browser_download_url": "https://github.com/devspace-sh/devspace/releases/download/v6.3.21/devspacehelper-arm64"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 132,
       "digest": "sha256:2e4804c6c352c40c2dcff444f89d8813a16674c97d3877a894fd44250e451504",
-      "download_count": 99852,
+      "download_count": 100114,
       "created_at": "2026-04-22T19:14:06Z",
       "updated_at": "2026-04-22T19:14:06Z",
       "browser_download_url": "https://github.com/devspace-sh/devspace/releases/download/v6.3.21/devspacehelper-arm64.sha256"
