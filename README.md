@@ -4,7 +4,7 @@
 
 DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 
-[![x-cmd/install — devspace Code Quality Monitoring Repo Card](https://repo.x-cmd.io/devspace.svg)](https://x-cmd.com/install/devspace)
+[![x-cmd/install — devspace Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/devspace.svg)](https://x-cmd.com/install/devspace)
 
 ## Install
 
@@ -30,8 +30,8 @@ Overall score: **4.4 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,190 · **Forks**: 425 · **Open issues**: 1,117 · **Contributors**: 96
+- **Stars**: 5,191 · **Forks**: 425 · **Open issues**: 1,117 · **Contributors**: 96
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-02 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-03 | 14 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for devspace lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:33:22Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:23:01Z._
